@@ -67,6 +67,10 @@ Additionally, this template uses the following libraries and features:
 - [TanStack Query v4](https://tanstack.com/query/latest)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Flowbite](https://flowbite.com/)
+- 
+
+# Deploy status badge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9ae2144d-9eec-41ae-9594-b13e83e745d4/deploy-status)](https://app.netlify.com/sites/boutiquestudio/deploys)
 - [Wix client SDK](https://dev.wix.com/api/sdk/introduction)
 
 # Next.js and Wix Integration Guide
